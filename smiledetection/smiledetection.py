@@ -71,5 +71,6 @@ while True:
     #to avoid immediate close, close only on key press 
     cv2.waitKey(1)
 
+# to avoid closure immediately 
 cv2.waitKey(1)
 
